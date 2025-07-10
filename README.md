@@ -1,15 +1,11 @@
 # lmsti
 A Telegram bot for communicating with LM Studio REST API. Built on [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot/).
 
-### Functionality
+## Functionality
 1. Preservation of chat history;
 2. Support for multiple users;
-3. Ability to erase history.
-
-### To-do
-1. Implement a request queue;
-2. Allow for model choice;
-3. Support for more endpoints.
+3. Ability to erase history;
+4. Ability to select a language model.
 
 ## Usage
 1. Install dependencies (below);
